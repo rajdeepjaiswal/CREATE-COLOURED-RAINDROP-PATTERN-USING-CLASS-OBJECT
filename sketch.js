@@ -1,6 +1,5 @@
 var drops = []
-var letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcdefghijklmnopqrstuvexyz";
-
+var letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789~`!@#$%^&*()_+-=[]\{}|:'<>?,./*-'";
 function setup()
 {   
     createCanvas(1535,720);
