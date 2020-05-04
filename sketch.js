@@ -1,12 +1,10 @@
 var drops = []
 var letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcdefghijklmnopqrstuvexyz";
-// other sample characters : !@#$%^&*()<>?/`~{}[]\|,.
-//  "也 池 驰 馳 弛"
-// 
+
 function setup()
 {   
-    createCanvas(1500,600);
-    frameRate(15);
+    createCanvas(1535,720);
+    frameRate(100);
     
     for(var i=0;i<100;i++)
     {
